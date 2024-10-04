@@ -1,2 +1,4 @@
-# CV — Jiten Dhandha
-This is my version-controlled CV, written in LaTeX. The format is adapted from: [https://github.com/htjb/CV](https://github.com/htjb/CV). The publications list is automated via Python (using the `pybtex` package) that reads from a BibTeX file.
+# CV — Jordan Zambrano
+
+
+This is a version-controlled cv, inspired in the work of Jiten Dhandha [https://github.com/JitenDhandha/CV/tree/main](https://github.com/JitenDhandha/CV/tree/main)
